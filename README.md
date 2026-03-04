@@ -7,16 +7,13 @@ Most of my work sits at the intersection of **AI agents, operational automation,
 ## Projects
 
 ### Operto One
-An operational platform for hotels that combines **guest messaging, AI copilots, and task management** into a single system.
+An **agentic AI solution for hotels** focused on three core areas of the hospitality business: Front of House, Back of House, and Distribution.
 
 ### Travel Hive
 AI powered travel platform focused on **connecting people who are traveling to the same destinations** and **generating personalized itineraries**.
 
 ### Tax2Tech
 A platform focused on helping **tax and accounting professionals digitize their operations**.  
-
-### Operto
-An **agentic AI solution for hotels** focused on three core areas of the hospitality business: Front of House, Back of House, and Distribution.
 
 ## About Me
 
