@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Dash 👋
 
-<!--
-**notdash86/notdash86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI powered products that automate real world operations.
 
-Here are some ideas to get you started:
+Most of my work sits at the intersection of **AI agents, operational automation, and platform integrations**. I focus on turning complex infrastructure into practical tools that businesses can actually run everyday.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Operto One
+An operational platform for hotels that combines **guest messaging, AI copilots, and task management** into a single system.
+
+### Travel Hive
+AI powered travel platform focused on **connecting people who are traveling to the same destinations** and **generating personalized itineraries**.
+
+### Tax2Tech
+A platform focused on helping **tax and accounting professionals digitize their operations**.  
+
+### Operto
+An **agentic AI solution for hotels** focused on three core areas of the hospitality business: Front of House, Back of House, and Distribution.
+
+## About Me
+
+Senior Product Manager at **Operto**.
+
+Background in **data analytics and product development**, with experience across:
+
+- AI driven platforms  
+- IoT infrastructure  
+- SaaS integrations  
+- operational automation systems
